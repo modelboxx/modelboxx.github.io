@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+body {
+  background-color: rgb(10, 10, 10);
+}
+
+.header,
+.fbx,
+.glb,
+.gltf,
+.obj {
+  background-color: #202020;
+}
+
+.choices {
+  background-color: #202020;
+}
