@@ -1,2 +1,2 @@
 User-agent : *
-Sitemap : https://mydevto.github.io/sitemap
+Sitemap : https://modelviewer.github.io/sitemap
