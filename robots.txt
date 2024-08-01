@@ -1,2 +1,2 @@
 User-agent : *
-Sitemap : https://modelviewer.github.io/sitemap
+Sitemap : https://modelboxx.github.io/sitemap
